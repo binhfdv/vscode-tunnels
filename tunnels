@@ -8,3 +8,4 @@ loginctl enable-linger $USER
 systemctl --user daemon-reload
 
 # could refer to this https://github.com/microsoft/vscode-remote-release/issues/7778
+# to create a tunnel.service if the above does not work
